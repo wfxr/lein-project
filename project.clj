@@ -1,6 +1,6 @@
 (defproject wfxr/lein-project "_"
   :description "Display project info."
-  :url "http://github.com/wfxr/lein-project"
+  :url "https://github.com/wfxr/lein-project"
   :plugins [[me.arrdem/lein-git-version "2.0.8"]]
   :license {:name "MIT"}
   :eval-in-leiningen true
