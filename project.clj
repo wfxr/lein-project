@@ -1,4 +1,4 @@
-(defproject lein-project "_"
+(defproject wfxr/lein-project "_"
   :description "Display project info."
   :url "http://github.com/wfxr/lein-project"
   :plugins [[me.arrdem/lein-git-version "2.0.8"]]
